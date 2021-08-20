@@ -1,6 +1,6 @@
 {
   "name": "sessionstorage-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "in memory sessionstorage test",
   "main": "sessionstorage-polyfill.js",
   "scripts": {
